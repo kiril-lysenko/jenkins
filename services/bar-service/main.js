@@ -1,4 +1,4 @@
-console.log('Hello new World')
+console.log('Hello New World')
     const checkAge = function (age) {
         if (age < age_2) {
            console.log ( "You don't have access cause your age is "  + (age) + " It's less then ")
